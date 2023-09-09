@@ -1,0 +1,35 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    color: white;
+}
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+#container{
+    background-color: #9b6537;
+    width: 50%;
+    margin: 50px;
+    padding: 50px;
+    display: flex;
+}
+#image{
+    border-radius: 15px;
+    width: 300px;
+    height: 400px;
+    position: relative;
+    margin-bottom: 20px;
+}
+#coeur{
+    width: 50px;
+}
+#selena{
+    color: rgb(60, 65, 65);
+}
+.twosection{
+    margin: 25px;
+    padding: 20px;
+}
